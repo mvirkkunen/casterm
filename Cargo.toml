@@ -1,0 +1,11 @@
+[package]
+name = "casterm"
+version = "0.1.0"
+authors = ["Matti Virkkunen <mvirkkunen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.10.16"
+nix = "0.15.0"
+utf-8 = "0.7.5"
+websocket = "0.23.0"
