@@ -6,6 +6,6 @@ edition = "2018"
 
 [dependencies]
 hyper = "0.10.16"
-nix = "0.15.0"
+nix = "0.20.2"
 utf-8 = "0.7.5"
 websocket = "0.23.0"
